@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ETU</string>
+
+    <string name="one_day_test">Lessons are here</string>
+    <string name="mon">ПН</string>
+    <string name="tue">ВТ</string>
+    <string name="wed">СР</string>
+    <string name="thr">ЧТ</string>
+    <string name="fri">ПТ</string>
+    <string name="sat">СБ</string>
+    <string name="database_unavailable">Ошибка соединения с базой данных</string>
+    <string name="name_of_lesson">Lesson name</string>
+    <string name="teachers_name">Teacher\'s name</string>
+    <string name="num_of_classroom">Classroom</string>
+    <string name="time_of_lesson">Time</string>
+    <string name="type_of_lesson">Lesson type</string>
+    <string name="switch1">1 неделя</string>
+    <string name="switch2">2 неделя</string>
+</resources>
